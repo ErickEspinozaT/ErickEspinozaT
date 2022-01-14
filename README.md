@@ -19,4 +19,7 @@ My name is Erick Espinoza and I'm a software Developer/DevOps engineer. I'm from
 
 ## 📊 This week i spent my time on:
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![pv](https://pageview.vercel.app/?github_user=erickespinozat)
