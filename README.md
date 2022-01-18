@@ -18,9 +18,13 @@ My name is Erick Espinoza and I'm a software Developer/DevOps engineer. I'm from
 ## 📊 This week i spent my time on:
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@erickespinozat)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
+```text
+TypeScript   28 hrs 6 mins   ███████████████████████▓░   95.10 % 
+HTML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Java         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```
 <!--END_SECTION:waka-->
 
 
