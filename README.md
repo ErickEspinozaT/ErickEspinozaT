@@ -6,20 +6,25 @@ My name is Erick Espinoza and I'm a software Developer/DevOps engineer. I'm from
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
   <a href="https://github.com/erickespinozat/erickespinozat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    <img   align="center" height="210vh" src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&count_private=true&theme=dark" alt="erickespinozat" />
   </a>
   <a href="https://github.com/erickespinozat/erickespinozat">
-    <img src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&theme=gotham" alt="erickespinozat" />
+    <img   align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=makefile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
   </a>
-<div>
 
 [3]: https://www.linkedin.com/in/erickespinozat/
 
 ## 📊 This week i spent my time on:
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@erickespinozat)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![pv](https://pageview.vercel.app/?github_user=erickespinozat)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@erickespinozat)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- ![pv](https://pageview.vercel.app/?github_user=erickespinozat) -->
