@@ -19,6 +19,8 @@ jobs:
           SHOW_EDITORS: true
           SHOW_OS: true
           SHOW_LINES_OF_CODE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+
 
 # jobs:
 #   update-readme:
