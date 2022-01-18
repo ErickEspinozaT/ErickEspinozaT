@@ -36,10 +36,10 @@ My name is Erick Espinoza and I'm a software Developer/DevOps engineer. I'm from
 
 <div align="center">
   <a href="https://github.com/erickespinozat/erickespinozat">
-    <img height="182px"src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&count_private=true&theme=dark" alt="erickespinozat" />
+    <img height="178gpx"src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&count_private=true&theme=dark" alt="erickespinozat" />
   </a>
  <a href="https://github.com/erickespinozat/erickespinozat">
-    <img height="182px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=makefile,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
+    <img height="178gpx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=makefile,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
   </a>  
 </div>
 <br>
@@ -51,10 +51,10 @@ My name is Erick Espinoza and I'm a software Developer/DevOps engineer. I'm from
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   28 hrs 6 mins   ███████████████████████▓░   95.10 % 
-HTML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Java         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript   28 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.10 % 
+HTML         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.68 % 
+Java         25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.42 % 
+YAML         18 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.02 % 
+Markdown     8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.46 % 
 ```
 <!--END_SECTION:waka-->
