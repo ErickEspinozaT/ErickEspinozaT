@@ -1,23 +1,23 @@
-name: Waka Readme
+# name: Waka Readme
 
-on:
-  push:
-    branches: [master]
+# on:
+#   push:
+#     branches: [master]
 
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: '0 */6 * * *'
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_EDITORS: true
-          #SHOW_OS: true
-          #SHOW_LINES_OF_CODE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          COMMIT_MESSAGE: Updated the Readme
+#   workflow_dispatch:
+#   schedule:
+#     # Runs every 2 hours
+#     - cron: '0 */6 * * *'
+# jobs:
+#   update-readme:
+#     name: Update this repo's README
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+#           SHOW_EDITORS: true
+#           #SHOW_OS: true
+#           #SHOW_LINES_OF_CODE: true
+#           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+#           COMMIT_MESSAGE: Updated the Readme
