@@ -2,8 +2,16 @@
 
 My name is Erick Espinoza and I'm a software engineer. I'm from Ecuador, living in Quito and currently working in microservices, typescript and making my way towards a devops carrer. You can find me on <a href="https://www.linkedin.com/in/erickespinozat/">
 
-<img align="center" alt="Abhishek's LinkedIN"  width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/erickespinozat">
+    <img align="center" alt="Abhishek's LinkedIN"  width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://t.me/erickespinozat">
+    <img align="center" alt="Abhishek's LinkedIN"  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+  </a>
+</div>
+
 <br>
 <br>
 
