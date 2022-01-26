@@ -44,10 +44,10 @@ My name is Erick Espinoza and I'm a software engineer. I'm from Ecuador, living 
 
 <div align="center">
   <a href="https://github.com/erickespinozat/erickespinozat">
-    <img height="165vh"src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&count_private=true&theme=dark" alt="erickespinozat" />
+    <img height="160vh"src="https://github-readme-stats.vercel.app/api?username=erickespinozat&show_icons=true&count_private=true&theme=dark" alt="erickespinozat" />
   </a>
   <a href="https://github.com/erickespinozat/erickespinozat">
-    <img height="165vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=makefile,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
+    <img height="160vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickespinozat&hide=makefile,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
   </a>  
 </div>
 
