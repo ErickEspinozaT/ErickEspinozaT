@@ -51,7 +51,12 @@ My name is Erick Espinoza and I'm a software engineer. I'm from Ecuador, living 
   </a>  
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erickespinozat&theme=dark&count_private=true&theme=radical)](https://github.com/erickespinozat)
+<div align="center">
+  <a href="https://github.com/erickespinozat">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickespinozat&theme=dark&count_private=true"/>
+  </a>
+</div>
+
 <br>
 <br>
 
