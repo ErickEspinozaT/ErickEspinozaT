@@ -67,7 +67,7 @@ My name is Erick Espinoza and I'm a software engineer. I'm from Ecuador, living 
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.77 %
+Other        1 hr 52 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.81 %
 ```
 
 <!--END_SECTION:waka-->
