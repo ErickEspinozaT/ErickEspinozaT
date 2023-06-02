@@ -66,7 +66,7 @@ My name is Erick Espinoza and I'm a software engineer. I'm from Ecuador, living 
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
